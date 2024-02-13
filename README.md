@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Threejs**
 
-- 💬 Ask me about **React , nextJs**
+- 💬 Ask me about **Javascript , React**
 
 - 📫 How to reach me **guezmiramine1@gmail.com**
 
