@@ -16,6 +16,11 @@
 
 - 📫 How to reach me **guezmiramine1@gmail.com**
 
+- 🎵 Currently listening to         
+   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hivaakr2sss23ah4jzlk6sp5qe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/guezmir amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guezmir amine" height="30" width="40" /></a>
